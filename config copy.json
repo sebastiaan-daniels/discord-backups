@@ -1,0 +1,9 @@
+{
+    "webhook": "YOUR WEBHOOK URL HERE [STRING]",
+    "interval": "THE INTERVAL IN HOURS HERE [INT]",
+    "files": [
+        "FILE 1 [STRING]",
+        "FILE 2 [STRING]",
+        "FILE 3 [STRING]"
+    ]
+}
