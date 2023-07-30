@@ -17,7 +17,7 @@ def main():
         r = webhook.execute()
         print(r)
         # wait for next backup
-        time.sleep(int(config["interval"]) * 36)
+        time.sleep(int(config["interval"]) * 3600)
 
     
 def hook(config):
